@@ -1,0 +1,44 @@
+body {
+  background-color: royalblue;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+}
+
+.title {
+  color: yellow;
+  text-transform: uppercase;
+  font-size: 50px;
+  text-shadow: 5px 5px rgb(0,0,0);
+}
+
+.card {
+ margin-top: 10px;
+ padding: 10px;
+}
+
+.box {
+  margin-top: 0%;
+  color: yellowgreen;
+  cursor: pointer;
+  padding: 0.5px 1px;
+  transform: scale(0.98);
+}
+
+.box :active{
+  transform: scale(0.98);
+}
+
+h4 {
+  color: #ffffff;
+}
+
+.subTitle {
+  font-size: 40px;
+  margin-top: 50px;
+  color: red;
+  text-transform: uppercase;
+  text-shadow: 5px 5px rgb(0,0,0);
+}
